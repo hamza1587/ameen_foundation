@@ -1,0 +1,137 @@
+[02-Mar-2021 11:59:29 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ameenfoundation/public_html/accounts/reports/get-account-report.php on line 230
+[02-Mar-2021 11:59:29 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ameenfoundation/public_html/accounts/reports/get-account-report.php on line 231
+[02-Mar-2021 11:59:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ameenfoundation/public_html/accounts/reports/get-account-report.php on line 244
+[02-Mar-2021 11:59:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ameenfoundation/public_html/accounts/reports/get-account-report.php on line 271
+[02-Mar-2021 11:59:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ameenfoundation/public_html/accounts/reports/get-account-report.php on line 312
+[02-Mar-2021 11:59:31 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ameenfoundation/public_html/accounts/reports/get-account-report.php on line 230
+[02-Mar-2021 11:59:31 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ameenfoundation/public_html/accounts/reports/get-account-report.php on line 231
+[02-Mar-2021 11:59:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ameenfoundation/public_html/accounts/reports/get-account-report.php on line 244
+[02-Mar-2021 11:59:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ameenfoundation/public_html/accounts/reports/get-account-report.php on line 271
+[02-Mar-2021 11:59:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ameenfoundation/public_html/accounts/reports/get-account-report.php on line 312
+[02-Mar-2021 11:59:33 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ameenfoundation/public_html/accounts/reports/get-account-report.php on line 230
+[02-Mar-2021 11:59:33 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ameenfoundation/public_html/accounts/reports/get-account-report.php on line 231
+[02-Mar-2021 11:59:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ameenfoundation/public_html/accounts/reports/get-account-report.php on line 244
+[02-Mar-2021 11:59:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ameenfoundation/public_html/accounts/reports/get-account-report.php on line 271
+[02-Mar-2021 11:59:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ameenfoundation/public_html/accounts/reports/get-account-report.php on line 312
+[23-Aug-2021 21:46:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[23-Aug-2021 21:47:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[23-Aug-2021 21:47:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[24-Aug-2021 07:12:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[24-Aug-2021 10:41:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[24-Aug-2021 10:41:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[24-Aug-2021 10:41:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[24-Aug-2021 10:42:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[25-Aug-2021 07:31:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[25-Aug-2021 07:32:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[25-Aug-2021 07:32:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[26-Aug-2021 05:58:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[26-Aug-2021 05:58:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[26-Aug-2021 07:17:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[26-Aug-2021 07:47:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[26-Aug-2021 13:04:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[26-Aug-2021 13:04:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[29-Aug-2021 07:29:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[29-Aug-2021 07:29:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[29-Aug-2021 07:29:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[29-Aug-2021 07:29:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[29-Aug-2021 10:27:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[31-Aug-2021 14:35:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[31-Aug-2021 14:36:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[31-Aug-2021 14:36:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[31-Aug-2021 14:36:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[04-Sep-2021 07:26:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[04-Sep-2021 07:26:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[04-Sep-2021 07:26:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[04-Sep-2021 07:30:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[04-Sep-2021 07:30:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[04-Sep-2021 07:30:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[04-Sep-2021 07:30:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[04-Sep-2021 07:30:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[04-Sep-2021 07:30:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[04-Sep-2021 07:30:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[04-Sep-2021 08:03:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[04-Sep-2021 08:04:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[04-Sep-2021 08:05:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[04-Sep-2021 08:05:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[04-Sep-2021 08:06:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[04-Sep-2021 08:06:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[04-Sep-2021 08:11:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[06-Sep-2021 06:39:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[06-Sep-2021 06:39:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[06-Sep-2021 06:40:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[06-Sep-2021 06:40:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[06-Sep-2021 06:40:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[07-Sep-2021 05:59:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[07-Sep-2021 05:59:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[16-Sep-2021 10:45:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[16-Sep-2021 10:45:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[16-Sep-2021 10:45:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[16-Sep-2021 10:50:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[16-Sep-2021 10:58:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[16-Sep-2021 10:59:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[16-Sep-2021 10:59:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[16-Sep-2021 10:59:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[16-Sep-2021 11:44:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[16-Sep-2021 11:44:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[16-Sep-2021 12:05:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[16-Sep-2021 12:11:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[16-Sep-2021 12:11:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[16-Sep-2021 12:11:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[18-Sep-2021 11:16:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[20-Sep-2021 05:50:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[20-Sep-2021 05:50:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[20-Sep-2021 05:51:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[20-Sep-2021 05:51:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[20-Sep-2021 05:51:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[20-Sep-2021 05:51:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[20-Sep-2021 09:47:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[20-Sep-2021 11:32:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[25-Sep-2021 06:35:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[25-Sep-2021 06:35:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[25-Sep-2021 06:56:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[25-Sep-2021 06:56:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[25-Sep-2021 09:23:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[25-Sep-2021 09:23:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[25-Sep-2021 09:24:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[25-Sep-2021 09:24:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[25-Sep-2021 09:24:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[25-Sep-2021 09:24:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[25-Sep-2021 09:24:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[25-Sep-2021 09:25:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[27-Sep-2021 07:10:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[27-Sep-2021 07:11:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[27-Sep-2021 07:13:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[28-Sep-2021 10:35:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[28-Sep-2021 10:35:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[28-Sep-2021 10:36:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[28-Sep-2021 10:36:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[29-Sep-2021 05:58:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[29-Sep-2021 05:58:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[29-Sep-2021 06:09:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[29-Sep-2021 06:10:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[29-Sep-2021 06:10:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[29-Sep-2021 06:10:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[29-Sep-2021 06:10:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[29-Sep-2021 06:10:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[29-Sep-2021 06:10:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[29-Sep-2021 06:14:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[30-Sep-2021 11:10:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[30-Sep-2021 11:10:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[02-Oct-2021 06:00:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[02-Oct-2021 06:00:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[02-Oct-2021 10:39:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[02-Oct-2021 10:42:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[02-Oct-2021 10:45:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[02-Oct-2021 10:46:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[02-Oct-2021 10:46:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[02-Oct-2021 10:47:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[02-Oct-2021 10:47:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[02-Oct-2021 10:47:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[02-Oct-2021 10:48:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[02-Oct-2021 10:51:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[02-Oct-2021 10:56:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[02-Oct-2021 10:58:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[02-Oct-2021 10:59:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[02-Oct-2021 10:59:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[02-Oct-2021 11:00:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484
+[02-Oct-2021 11:00:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tecnosphere/public_html/accounts/reports/get-account-report.php on line 484

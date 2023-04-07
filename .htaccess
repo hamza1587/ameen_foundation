@@ -1,0 +1,193 @@
+Options +FollowSymLinks -MultiViews
+# Turn mod_rewrite on
+RewriteEngine On
+RewriteBase /ameen/
+
+ErrorDocument 404 https://accounts.ameenfoundation.org.pk/404.php/
+
+RewriteCond %{REQUEST_URI} ^/404/$
+RewriteRule ^(.*)$ /404.php [L]
+
+#permission route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^permissions/([0-9]+)/?$ ./permissions.php?permission=$1 [L,QSA,NC]
+
+#edit loan route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^edit-loan/([0-9]+)/?$ ./edit_loan.php?url=$1 [L,QSA,NC]
+
+#donation invoice route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^donation-invoice/([0-9]+)/?$ ./donation_invoice.php?invoice=$1 [L,QSA,NC]
+
+#expense invoice route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^expense-invoice/([0-9]+)/?$ ./expense_invoice.php?invoice=$1 [L,QSA,NC]
+
+#project expense invoice route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^p-expense-invoice/([0-9]+)/?$ ./p_expense_invoice.php?invoice=$1 [L,QSA,NC]
+
+#loan invoice route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^loan-invoice/([0-9]+)/?$ ./loan_invoice.php?invoice=$1 [L,QSA,NC]
+
+#payment invoice route
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule ^payment-invoice/([0-9]+)/?$ ./payment_invoice.php?invoice=$1 [L,QSA,NC]
+
+#membership invoice route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^membership-invoice/([0-9]+)/?$ ./membership_invoice.php?invoice=$1 [L,QSA,NC]
+
+#users route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^users$ ./new_user.php [L,NC]
+
+#user roles route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^user-roles$ ./add_user_roles.php [L,NC]
+
+#states route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^add-state$ ./new_state.php [L,NC]
+
+#cities route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^add-city$ ./new_city.php [L,NC]
+
+#opening balance route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^add-balance$ ./opening_balance.php [L,NC]
+
+#new loan route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^add-loan$ ./new_loan.php [L,NC]
+
+#loan management route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^loans$ ./loan_management.php [L,NC]
+
+#membership route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^add-membership$ ./membership.php [L,NC]
+
+#payments route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^add-payments$ ./payments.php [L,NC]
+
+#services route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^add-services$ ./insert_service.php [L,NC]
+
+#bank accounts route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^add-accounts$ ./insert_bank_accounts.php [L,NC]
+
+#donation types route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^add-donation-type$ ./new_donation_type.php [L,NC]
+
+#donations route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^add-donation$ ./new_donation.php [L,NC]
+
+#helping categories route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^add-helping-category$ ./new_project_expense.php [L,NC]
+
+#expense types route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^add-expense-type$ ./expense_type.php [L,NC]
+
+#expense route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^add-expense$ ./new_expenditure.php [L,NC]
+
+#loan report route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^loan-report$ ./loans.php [L,NC]
+
+#donation report route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^donation-report$ ./donations.php [L,NC]
+
+#expense route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^expense-report$ ./expenses.php [L,NC]
+
+#balance sheet route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^balance-report$ ./balance_sheet.php [L,NC]
+
+#cash accounts route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^account-report$ ./account_report.php [L,NC]
+
+#expense route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^helping-category-report$ ./helping_categories.php [L,NC]
+
+#expense route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^payment-report$ ./payment.php [L,NC]
+
+#backup route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^member-report$ ./members.php [L,NC]
+
+#profile settings route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^profile$ ./settings.php [L,NC]
+
+#system settings route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^system-settings$ ./system_settings.php [L,NC]
+
+#backup route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^system-backup$ ./backup.php [L,NC]
+
+#dashboard route
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^dashboard$ ./dashboard.php [L,NC]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# This domain inherits the “PHP” package.
+# php -- END cPanel-generated handler, do not edit

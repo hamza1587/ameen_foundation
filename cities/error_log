@@ -1,0 +1,1 @@
+[14-Mar-2021 05:51:00 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; dbConfig has a deprecated constructor in /home/ameenfoundation/public_html/accounts/config.php on line 2
